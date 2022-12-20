@@ -1,1 +1,5 @@
 Davi José Cunha Santos
+
+Aula muitíssimo interessante, ajuda muito pra quem ainda não é
+familiarizado com o git, muitas pessoas precisam de tutoriais como esse para
+poder seguir com a disciplina e com muitas funcionalidades do git no campo da computação.
